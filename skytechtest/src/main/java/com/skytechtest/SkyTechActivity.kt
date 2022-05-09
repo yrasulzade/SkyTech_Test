@@ -22,5 +22,7 @@ class SkyTechActivity : AppCompatActivity() {
             }
         }
         binding.whelpWebView.loadUrl("https://www.google.com")
+
+
     }
 }
